@@ -1,0 +1,4 @@
+---
+- name: deploy a wordpress instance on RHEL8
+  hosts: all
+  become: true
